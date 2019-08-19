@@ -19,7 +19,7 @@ this is a new piece of text with some **italic text**, **bold text** and even so
 2. item
 3. item
 
-![Github_Octocat_logo] (https://res.cloudinary.com/practicaldev/image/fetch/s--MNvD_xtu--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.postimg.cc/G3PbcZL2/octocat-2.png)
+![Github_Octocat_logo] (http://cameronmcefee.com/img/work/the-octocat/original.jpg)
 
 This is a demo for a Git course at [Training Dragon] (https://www.trainingdragon.co.uk)
 

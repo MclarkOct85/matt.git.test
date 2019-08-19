@@ -19,13 +19,13 @@ this is a new piece of text with some **italic text**, **bold text** and even so
 2. item
 3. item
 
-![Github_Octocat_logo] (https://i.pinimg.com/originals/94/db/d5/94dbd5cbf7fdfac3c4c71aed6c6facfe.jpg)
+![Github_Octocat_logo](https://i.pinimg.com/originals/94/db/d5/94dbd5cbf7fdfac3c4c71aed6c6facfe.jpg)
 
-This is a demo for a Git course at [Training Dragon] (https://www.trainingdragon.co.uk)
+This is a demo for a Git course at [Training Dragon](https://www.trainingdragon.co.uk)
 
 #### Js demo code
-'''javascript
+```javascript
 const foo =() => (
   console.log('just a demo');
   )
-'''
+```
